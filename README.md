@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src='https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif' width="100"/>
+  <img src='https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif' width="500"/>
 </div>
 
 - 🔭 Recently graduated from the Carlson School of Management, University of Minnesota with an MS in Business Analytics
