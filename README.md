@@ -5,7 +5,7 @@
 - 🔭 Recently graduated from the Carlson School of Management, University of Minnesota with an MS in Business Analytics
 - 🌱 Looking to learn how data works in the sports and energy industry!
 - 💬 Looking to Collaborate On: Projects on sustainability and the impact of SDGs using data science and analytics
-- ⚡ Fun Fact: Once battled foes as an International Fencing Player and led troops as a Cadet Captain in the Navy, NCC India. En garde!🤺⚓
+- ⚡ Fun Fact: Once battled foes as an International Fencing Player, led troops as a Cadet Captain in the Navy, NCC India. En garde!🤺⚓
 
 Reach me at gaikw026@umn.edu
 
